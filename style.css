@@ -183,7 +183,8 @@ p{
 
 /* Homepage Section */
 #home {
-    background-image: url(./images/background1.jpg);
+    background-image: url(./images/background\ image.jpg);
+    background-size: cover;
     background-position: top center;
     position: relative;
     z-index: 1;
